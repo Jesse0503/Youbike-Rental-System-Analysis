@@ -1,6 +1,6 @@
 # Youbike-Rental-System-Analysis
 
-## Multivaraite Variable Analysis Final Project
+## Multivaraite Analysis Final Project
 
 Conducting Youbike rent number prediction with adapted auto-regressive model. <br>
 
